@@ -11,4 +11,5 @@ page-layout: full
 title-block-banner: true
 ---
 
+# 터미널, 파이썬 , 주피터 인터프리터 맞춰주기
 
