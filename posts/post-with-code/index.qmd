@@ -10,4 +10,5 @@ This is a post with executable code.
 
 ```{python}
 print('hello world')
+print('hello?')
 ```
