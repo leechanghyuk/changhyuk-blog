@@ -3,7 +3,7 @@ project:
   output-dir : docs
 
 website:
-  title: "changhyuk-blog"
+  title: "changhyuk_blog"
   navbar:
     right:
       - about.qmd
