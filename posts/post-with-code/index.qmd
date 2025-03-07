@@ -3,7 +3,7 @@ title: "palmerpeuguin analysis"
 author: "Harlow Malloc"
 date: "2025-03-06"
 categories: [news, code, analysis]
-image: "image.jpg"
+image: "palmerpenguin.png"
 ---
 
 ## 8조 (이주형, 이창혁, 정은주 )
