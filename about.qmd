@@ -1,6 +1,6 @@
 ---
 title: "Changhyuk Lee"
-image: profile.jpg
+image: pepethumb2.png
 about:
   template: jolla
   links:
