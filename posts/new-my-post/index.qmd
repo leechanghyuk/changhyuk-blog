@@ -3,7 +3,7 @@ title: "내 첫 블로그 포스트"
 author: "Changhyuk Lee"
 date: "2025-03-07"
 categories: [code, analysis]
-image: "palmerpenguin.png"
+image: "pepethumb.avif"
 ---
 
 ## 파이썬 데이터 분석
